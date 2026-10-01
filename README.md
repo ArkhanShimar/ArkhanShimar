@@ -1,73 +1,154 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Arkhan Shimar — Software Engineer. Full stack, mobile, and AI." />
+  <img src="./assets/banner.png" width="100%" alt="Arkhan Shimar — Software Engineer · Full Stack / Mobile / AI" />
 </p>
 
 <p align="center">
-  <strong>Building smart, reliable software. Always learning what comes next.</strong>
+  <a href="https://arkhan-portfolio.vercel.app"><img src="./assets/link-portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arkhan-shimar-77b3072ab/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:arkhansimar1@gmail.com"><img src="./assets/link-email.svg" alt="Email" /></a>
+  <a href="https://arkhan-portfolio.vercel.app/Arkhan_Shimar.pdf"><img src="./assets/link-resume.svg" alt="Résumé" /></a>
 </p>
 
-<p align="center">
-  <a href="https://arkhan-portfolio.vercel.app"><strong>Portfolio ↗</strong></a>
-  &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/arkhan-shimar-77b3072ab/">LinkedIn</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:arkhansimar1@gmail.com">Email</a>
-  &nbsp; / &nbsp;
-  <a href="https://arkhan-portfolio.vercel.app/Arkhan_Shimar.pdf">Résumé</a>
-</p>
+<p align="center"><samp>FULL-STACK THINKING. CLEAN INTERFACES. REAL-WORLD PROBLEMS.</samp></p>
 
----
+## 👨‍💻 About me
 
-### `01` / Hello, world
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I’m **Arkhan Shimar**, a **software engineer and Computer Science undergraduate** from **Mawanella, Sri Lanka**. I build full-stack web platforms and Android applications, and explore how machine learning can solve practical problems.
+### Hey, I’m Arkhan.
 
-I care about clean interfaces, thoughtful application logic, and software that is useful beyond the demo.
+A **Software Engineer & Computer Science undergraduate** based in **Mawanella, Sri Lanka**. I build web platforms and Android applications, and explore practical machine learning.
 
-```yaml
-currently:
-  work: Full Stack Developer Intern @ SLT-MOBITEL
-  study: BSc (Hons) Computer Science — Software Engineering
-  campus: CINEC / University of Wolverhampton
-  explore: Full-stack systems, mobile development, machine learning
-also:
-  - Freelance web development & graphic design
-  - Part-time mathematics tutoring
+```js
+const arkhan = {
+  role: "Software Engineer",
+  work: "SLT-MOBITEL · Intern",
+  study: "BSc (Hons) Computer Science",
+  focus: [
+    "Full-stack development",
+    "Android applications",
+    "Intelligent systems"
+  ],
+  mindset: "Build. Learn. Repeat."
+};
 ```
 
-### `02` / Selected builds
+Outside the code: **freelance graphic design** and **mathematics tutoring**.
 
-| Project | What I’m building | Explore |
-| :--- | :--- | :--- |
-| **Veloura** | A MERN restaurant platform with ordering, reservations, POS, kitchen display, and role-based operations. | [Source](https://github.com/ArkhanShimar/Restaurant-Website) · [Demo](https://veloura-restaurant-lk.vercel.app/) |
-| **DayMark** | Task management with authentication, progress tracking, and notifications. | [Source](https://github.com/ArkhanShimar/Task-Management-System) · [Demo](https://task-management-system-frontend-seven.vercel.app/) |
-| **Notely** | Rich-text notes, folders, pinning, collaboration, and search. | [Source](https://github.com/ArkhanShimar/Note-Taking-Website) |
-| **Textile ERP** | Textile management, from raw materials to finished goods, using React and PostgreSQL / Supabase. | [Source](https://github.com/ArkhanShimar/Textile_ERP) |
-| **LuxeVista** | A Java and Firebase Android app for hotel booking and service management. | [Source](https://github.com/ArkhanShimar/LexeVista-Resort) |
-| **AgroCare** | Plant disease detection and growth forecasting with CNN and regression models. | [Portfolio](https://arkhan-portfolio.vercel.app/projects) |
+<a href="mailto:arkhansimar1@gmail.com"><strong>Let’s build something useful ↗</strong></a>
 
-<p align="right"><a href="https://arkhan-portfolio.vercel.app/projects"><strong>Explore all projects →</strong></a></p>
+</td>
+<td width="42%" align="center" valign="middle">
+  <img src="./assets/ascii-portrait.png" width="330" alt="ASCII-style portrait of Arkhan Shimar, created from his portfolio graduation photo in emerald green on black" />
+</td>
+</tr>
+</table>
 
-### `03` / Tools of the trade
+## 🧰 Technology stack
 
-| Layer | Technologies |
+<p align="center"><img src="./assets/tech-stack.svg" width="100%" alt="Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, React Native. Backend: Node.js, Express, FastAPI, PHP, C#, .NET. Data: MongoDB, MySQL, PostgreSQL, Supabase, Firebase. Other: Python, Java, C++, R, Git, Docker, Postman, Figma." /></p>
+
+## 📊 GitHub dashboard
+
+<p align="center"><img src="./assets/overview.svg" width="100%" alt="Public repositories, stars on owned non-fork repositories, followers, and year joined" /></p>
+
+<p align="center"><img src="./assets/contributions.svg" width="100%" alt="Arkhan Shimar’s GitHub contribution calendar" /></p>
+
+<p align="center">
+  <img src="./assets/languages.svg" width="49%" alt="Language distribution by code bytes across public non-fork repositories" />
+  <img src="./assets/activity.svg" width="49%" alt="Contributions in the latest 12 weekly buckets" />
+</p>
+
+<p align="center"><img src="./assets/streak.svg" width="100%" alt="Contributions, current and longest streaks, and active days within the displayed calendar" /></p>
+
+<p align="center"><sub>Public GitHub data · Last refreshed date appears on the cards · Languages reflect code volume, not proficiency.</sub></p>
+
+## 🚀 Notable projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Veloura
+Restaurant ordering, reservations, POS, kitchen display, and role-based operations.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[Source ↗](https://github.com/ArkhanShimar/Restaurant-Website) · [Live demo ↗](https://veloura-restaurant-lk.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ DayMark
+Task management with authentication, task creation, progress tracking, and notifications.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[Source ↗](https://github.com/ArkhanShimar/Task-Management-System) · [Live demo ↗](https://task-management-system-frontend-seven.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 Notely
+Rich-text notes, folders, pinning, real-time collaboration, and search.
+
+`React` `Node.js` `MongoDB`
+
+[Source ↗](https://github.com/ArkhanShimar/Note-Taking-Website)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧵 Textile ERP
+Managing textile operations, from raw materials to finished goods.
+
+`React` `Express` `PostgreSQL` `Supabase`
+
+[Source ↗](https://github.com/ArkhanShimar/Textile_ERP)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 LuxeVista
+Android hotel booking and service management application.
+
+`Java` `Firebase` `Android`
+
+[Source ↗](https://github.com/ArkhanShimar/LexeVista-Resort)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 AgroCare
+Plant disease detection, growth prediction, and plant management using CNN and regression models.
+
+`React` `FastAPI` `MongoDB` `Machine Learning`
+
+[Portfolio ↗](https://arkhan-portfolio.vercel.app/projects) · Public source unavailable
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="https://arkhan-portfolio.vercel.app/projects"><strong>Explore the full project archive →</strong></a></p>
+
+## 🎓 Learning & experience
+
+| Journey | Details |
 | :--- | :--- |
-| **Interfaces** | React · Next.js · React Native · TypeScript · JavaScript · HTML · CSS |
-| **Backend** | Node.js · Express · REST APIs · FastAPI · PHP · C# / .NET |
-| **Data** | MongoDB · MySQL · PostgreSQL / Supabase · Firebase |
-| **Beyond the web** | Python · Java · C++ · R · Android |
-| **Workflow** | Git · Docker · Postman · Figma · VS Code · Android Studio |
-
-### `04` / Learning, continuously
-
-**BSc (Hons) Computer Science (Software Engineering)** · 2026–present  
-CINEC Campus, affiliated with the University of Wolverhampton, UK.
-
-**Higher Diploma in Computing and Software Engineering** · 2024–2026  
-ICBT Campus, affiliated with Cardiff Metropolitan University, UK.
+| **Full Stack Developer Intern** | SLT-MOBITEL · August 2026–present |
+| **Freelance Web Developer & Graphic Designer** | 2024–present |
+| **BSc (Hons) Computer Science — Software Engineering** | CINEC Campus / University of Wolverhampton · 2026–present |
+| **Higher Diploma in Computing and Software Engineering** | ICBT Campus / Cardiff Metropolitan University · 2024–2026 |
 
 <details>
-<summary><strong>Selected credentials ↗</strong></summary>
+<summary><strong>🏅 Selected certifications</strong></summary>
 
 <br/>
 
@@ -78,16 +159,17 @@ ICBT Campus, affiliated with Cardiff Metropolitan University, UK.
 
 </details>
 
-### `05` / Notes from the process
+<details>
+<summary><strong>✍️ Notes from the process</strong></summary>
 
-- [Why Most Student Projects Look the Same — and How I Try to Avoid That](https://arkhan-portfolio.vercel.app/blog/why-student-projects-look-the-same)
+<br/>
+
+- [Why Most Student Projects Look the Same](https://arkhan-portfolio.vercel.app/blog/why-student-projects-look-the-same)
 - [How I Use AI Tools Without Letting Them Do Everything](https://arkhan-portfolio.vercel.app/blog/how-i-use-ai-tools-without-letting-them-do-everything)
 - [Lessons I Learned While Building My Own Projects](https://arkhan-portfolio.vercel.app/blog/lessons-i-learned-building-my-own-projects)
 
+</details>
+
 ---
 
-<p align="center">
-  <strong>Have a project, an opportunity, or an idea?</strong><br/>
-  Let’s turn it into something useful.<br/><br/>
-  <a href="mailto:arkhansimar1@gmail.com"><strong>Start a conversation ↗</strong></a>
-</p>
+<p align="center"><samp>IDEA → CODE → SOMETHING USEFUL</samp><br/><br/><a href="mailto:arkhansimar1@gmail.com"><strong>Start a conversation ↗</strong></a></p>
