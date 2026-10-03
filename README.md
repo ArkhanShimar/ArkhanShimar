@@ -19,13 +19,12 @@
 
 ### Hey, I’m Arkhan.
 
-A **Software Engineer & Computer Science undergraduate** based in **Mawanella, Sri Lanka**. I build web platforms and Android applications, and explore practical machine learning.
+A **Software Engineer** based in **Mawanella, Sri Lanka**. I build web platforms and Android applications, and explore practical machine learning.
 
 ```js
 const arkhan = {
   role: "Software Engineer",
   work: "SLT-MOBITEL · Intern",
-  study: "BSc (Hons) Computer Science",
   focus: [
     "Full-stack development",
     "Android applications",
@@ -41,14 +40,30 @@ Outside the code: **freelance graphic design** and **mathematics tutoring**.
 
 </td>
 <td width="42%" align="center" valign="middle">
-  <img src="./assets/ascii-portrait.png" width="330" alt="ASCII-style portrait of Arkhan Shimar, created from his portfolio graduation photo in emerald green on black" />
+  <img src="./assets/ascii-portrait.svg" width="330" alt="Real ASCII portrait of Software Engineer Arkhan Shimar, converted from his graduation photo into emerald-green text" />
 </td>
 </tr>
 </table>
 
-## 🧰 Technology stack
+<p align="right"><a href="./assets/portrait.txt"><sub>View the portrait as plain ASCII text ↗</sub></a></p>
 
-<p align="center"><img src="./assets/tech-stack.svg" width="100%" alt="Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, React Native. Backend: Node.js, Express, FastAPI, PHP, C#, .NET. Data: MongoDB, MySQL, PostgreSQL, Supabase, Firebase. Other: Python, Java, C++, R, Git, Docker, Postman, Figma." /></p>
+## 🧰 Languages, platforms & skills
+
+<p align="center">
+  <img src="./assets/stack-languages.svg" width="49%" alt="Programming languages: JavaScript, TypeScript, Python, Java, C++, C#, PHP, R" />
+  <img src="./assets/stack-frontend.svg" width="49%" alt="Frontend: React, Next.js, React Native, HTML, CSS, Tailwind CSS" />
+</p>
+
+<p align="center">
+  <img src="./assets/stack-backend.svg" width="49%" alt="Backend and data: Node.js, Express, FastAPI, .NET, MongoDB, MySQL, PostgreSQL" />
+  <img src="./assets/stack-platforms.svg" width="49%" alt="Platforms: Firebase, Supabase, Android, Vercel, Cloudinary" />
+</p>
+
+<p align="center">
+  <img src="./assets/stack-tools.svg" width="49%" alt="Tools: Git, GitHub, Docker, Postman, Figma, VS Code, Android Studio" />
+  <img src="./assets/stack-skills.svg" width="49%" alt="Skills: Full-stack development, REST APIs, mobile development, problem-solving, team collaboration" />
+</p>
+
 
 ## 📊 GitHub dashboard
 
@@ -74,7 +89,7 @@ Outside the code: **freelance graphic design** and **mathematics tutoring**.
 ### 🍽️ Veloura
 Restaurant ordering, reservations, POS, kitchen display, and role-based operations.
 
-`React` `Node.js` `Express` `MongoDB`
+<img src="./assets/badge-react.svg" alt="React" /> <img src="./assets/badge-node-js.svg" alt="Node.js" /> <img src="./assets/badge-express.svg" alt="Express" /> <img src="./assets/badge-mongodb.svg" alt="MongoDB" />
 
 [Source ↗](https://github.com/ArkhanShimar/Restaurant-Website) · [Live demo ↗](https://veloura-restaurant-lk.vercel.app/)
 
@@ -84,7 +99,7 @@ Restaurant ordering, reservations, POS, kitchen display, and role-based operatio
 ### ✅ DayMark
 Task management with authentication, task creation, progress tracking, and notifications.
 
-`React` `Node.js` `Express` `MongoDB`
+<img src="./assets/badge-react.svg" alt="React" /> <img src="./assets/badge-node-js.svg" alt="Node.js" /> <img src="./assets/badge-express.svg" alt="Express" /> <img src="./assets/badge-mongodb.svg" alt="MongoDB" />
 
 [Source ↗](https://github.com/ArkhanShimar/Task-Management-System) · [Live demo ↗](https://task-management-system-frontend-seven.vercel.app/)
 
@@ -96,7 +111,7 @@ Task management with authentication, task creation, progress tracking, and notif
 ### 📝 Notely
 Rich-text notes, folders, pinning, real-time collaboration, and search.
 
-`React` `Node.js` `MongoDB`
+<img src="./assets/badge-react.svg" alt="React" /> <img src="./assets/badge-node-js.svg" alt="Node.js" /> <img src="./assets/badge-mongodb.svg" alt="MongoDB" />
 
 [Source ↗](https://github.com/ArkhanShimar/Note-Taking-Website)
 
@@ -106,7 +121,7 @@ Rich-text notes, folders, pinning, real-time collaboration, and search.
 ### 🧵 Textile ERP
 Managing textile operations, from raw materials to finished goods.
 
-`React` `Express` `PostgreSQL` `Supabase`
+<img src="./assets/badge-react.svg" alt="React" /> <img src="./assets/badge-express.svg" alt="Express" /> <img src="./assets/badge-postgresql.svg" alt="PostgreSQL" /> <img src="./assets/badge-supabase.svg" alt="Supabase" />
 
 [Source ↗](https://github.com/ArkhanShimar/Textile_ERP)
 
@@ -118,7 +133,7 @@ Managing textile operations, from raw materials to finished goods.
 ### 🏨 LuxeVista
 Android hotel booking and service management application.
 
-`Java` `Firebase` `Android`
+<img src="./assets/badge-java.svg" alt="Java" /> <img src="./assets/badge-firebase.svg" alt="Firebase" /> <img src="./assets/badge-android.svg" alt="Android" />
 
 [Source ↗](https://github.com/ArkhanShimar/LexeVista-Resort)
 
@@ -128,7 +143,7 @@ Android hotel booking and service management application.
 ### 🌱 AgroCare
 Plant disease detection, growth prediction, and plant management using CNN and regression models.
 
-`React` `FastAPI` `MongoDB` `Machine Learning`
+<img src="./assets/badge-react.svg" alt="React" /> <img src="./assets/badge-fastapi.svg" alt="FastAPI" /> <img src="./assets/badge-mongodb.svg" alt="MongoDB" /> <img src="./assets/badge-machine-learning.svg" alt="Machine Learning" />
 
 [Portfolio ↗](https://arkhan-portfolio.vercel.app/projects) · Public source unavailable
 
