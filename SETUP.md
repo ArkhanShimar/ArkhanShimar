@@ -25,7 +25,7 @@ For automatic updates, open your profile repository’s Actions tab, select **Re
 - `assets/languages.svg`: language percentages by byte count across public non-fork repositories.
 - `assets/activity.svg`: latest 12 seven-day contribution buckets, not commit counts.
 - `assets/streak.svg`: contribution totals, current streak, longest streak, and active days within the displayed calendar. Today with zero contributions does not break the current streak until the day ends (UTC).
-- `assets/stack-*.svg`, `assets/badge-*.svg`, and `assets/link-*.svg`: local green skill cards, project labels, and contact badges.
+- Skills, tools, languages, project stacks, and contact links use native HTML tables and `<code>` text labels directly in README.md. GitHub applies the viewer’s theme; these labels are selectable text and do not load images. Legacy badge assets are unused.
 - `assets/github-data.json`: source snapshot for the generated dashboard.
 - `dashboard-preview.png`: combined preview of the stats panels.
 
@@ -41,7 +41,7 @@ node scripts/update-stats.mjs
 
 The script uses GitHub’s public REST API and public contribution calendar markup. It fetches all data before writing cards and stops if the calendar cannot be parsed, preserving the last generated set on fetch/parse failure. If GitHub changes its calendar markup, the parser may need updating. Unauthenticated REST requests are subject to GitHub rate limits; the included workflow authenticates using its temporary built-in token.
 
-To regenerate the static badges: `node scripts/create-badges.mjs`.
+Edit text labels directly in README.md. No image generator is needed for the toolkit or project labels.
 
 ## Design and sources
 

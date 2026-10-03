@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://arkhan-portfolio.vercel.app"><img src="./assets/link-portfolio.svg" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/arkhan-shimar-77b3072ab/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:arkhansimar1@gmail.com"><img src="./assets/link-email.svg" alt="Email" /></a>
-  <a href="https://arkhan-portfolio.vercel.app/Arkhan_Shimar.pdf"><img src="./assets/link-resume.svg" alt="Résumé" /></a>
+  <a href="https://arkhan-portfolio.vercel.app"><code>Portfolio ↗</code></a>
+  <a href="https://www.linkedin.com/in/arkhan-shimar-77b3072ab/"><code>LinkedIn ↗</code></a>
+  <a href="mailto:arkhansimar1@gmail.com"><code>Email ↗</code></a>
+  <a href="https://arkhan-portfolio.vercel.app/Arkhan_Shimar.pdf"><code>Résumé ↗</code></a>
 </p>
 
 <p align="center"><samp>FULL-STACK THINKING. CLEAN INTERFACES. REAL-WORLD PROBLEMS.</samp></p>
@@ -49,21 +49,38 @@ Outside the code: **freelance graphic design** and **mathematics tutoring**.
 
 ## 🧰 Languages, platforms & skills
 
-<p align="center">
-  <img src="./assets/stack-languages.svg" width="49%" alt="Programming languages: JavaScript, TypeScript, Python, Java, C++, C#, PHP, R" />
-  <img src="./assets/stack-frontend.svg" width="49%" alt="Frontend: React, Next.js, React Native, HTML, CSS, Tailwind CSS" />
-</p>
-
-<p align="center">
-  <img src="./assets/stack-backend.svg" width="49%" alt="Backend and data: Node.js, Express, FastAPI, .NET, MongoDB, MySQL, PostgreSQL" />
-  <img src="./assets/stack-platforms.svg" width="49%" alt="Platforms: Firebase, Supabase, Android, Vercel, Cloudinary" />
-</p>
-
-<p align="center">
-  <img src="./assets/stack-tools.svg" width="49%" alt="Tools: Git, GitHub, Docker, Postman, Figma, VS Code, Android Studio" />
-  <img src="./assets/stack-skills.svg" width="49%" alt="Skills: Full-stack development, REST APIs, mobile development, problem-solving, team collaboration" />
-</p>
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>{ } Programming languages</h3>
+<p><code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>Java</code> <code>C++</code> <code>C#</code> <code>PHP</code> <code>R</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>&lt;/&gt; Frontend &amp; interfaces</h3>
+<p><code>React</code> <code>Next.js</code> <code>React Native</code> <code>HTML</code> <code>CSS</code> <code>Tailwind CSS</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>API Backend &amp; data</h3>
+<p><code>Node.js</code> <code>Express</code> <code>FastAPI</code> <code>.NET</code> <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>[+] Platforms &amp; services</h3>
+<p><code>Firebase</code> <code>Supabase</code> <code>Android</code> <code>Vercel</code> <code>Cloudinary</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>$_ Development tools</h3>
+<p><code>Git</code> <code>GitHub</code> <code>Docker</code> <code>Postman</code> <code>Figma</code> <code>VS Code</code> <code>Android Studio</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>*** Engineering skills</h3>
+<p><code>Full-stack development</code> <code>REST APIs</code> <code>Mobile development</code> <code>Problem-solving</code> <code>Team collaboration</code></p>
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub dashboard
 
@@ -89,7 +106,7 @@ Outside the code: **freelance graphic design** and **mathematics tutoring**.
 ### 🍽️ Veloura
 Restaurant ordering, reservations, POS, kitchen display, and role-based operations.
 
-<img src="./assets/badge-react.svg" alt="React" /> <img src="./assets/badge-node-js.svg" alt="Node.js" /> <img src="./assets/badge-express.svg" alt="Express" /> <img src="./assets/badge-mongodb.svg" alt="MongoDB" />
+<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
 
 [Source ↗](https://github.com/ArkhanShimar/Restaurant-Website) · [Live demo ↗](https://veloura-restaurant-lk.vercel.app/)
 
@@ -99,7 +116,7 @@ Restaurant ordering, reservations, POS, kitchen display, and role-based operatio
 ### ✅ DayMark
 Task management with authentication, task creation, progress tracking, and notifications.
 
-<img src="./assets/badge-react.svg" alt="React" /> <img src="./assets/badge-node-js.svg" alt="Node.js" /> <img src="./assets/badge-express.svg" alt="Express" /> <img src="./assets/badge-mongodb.svg" alt="MongoDB" />
+<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
 
 [Source ↗](https://github.com/ArkhanShimar/Task-Management-System) · [Live demo ↗](https://task-management-system-frontend-seven.vercel.app/)
 
@@ -111,7 +128,7 @@ Task management with authentication, task creation, progress tracking, and notif
 ### 📝 Notely
 Rich-text notes, folders, pinning, real-time collaboration, and search.
 
-<img src="./assets/badge-react.svg" alt="React" /> <img src="./assets/badge-node-js.svg" alt="Node.js" /> <img src="./assets/badge-mongodb.svg" alt="MongoDB" />
+<code>React</code> <code>Node.js</code> <code>MongoDB</code>
 
 [Source ↗](https://github.com/ArkhanShimar/Note-Taking-Website)
 
@@ -121,7 +138,7 @@ Rich-text notes, folders, pinning, real-time collaboration, and search.
 ### 🧵 Textile ERP
 Managing textile operations, from raw materials to finished goods.
 
-<img src="./assets/badge-react.svg" alt="React" /> <img src="./assets/badge-express.svg" alt="Express" /> <img src="./assets/badge-postgresql.svg" alt="PostgreSQL" /> <img src="./assets/badge-supabase.svg" alt="Supabase" />
+<code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>Supabase</code>
 
 [Source ↗](https://github.com/ArkhanShimar/Textile_ERP)
 
@@ -133,7 +150,7 @@ Managing textile operations, from raw materials to finished goods.
 ### 🏨 LuxeVista
 Android hotel booking and service management application.
 
-<img src="./assets/badge-java.svg" alt="Java" /> <img src="./assets/badge-firebase.svg" alt="Firebase" /> <img src="./assets/badge-android.svg" alt="Android" />
+<code>Java</code> <code>Firebase</code> <code>Android</code>
 
 [Source ↗](https://github.com/ArkhanShimar/LexeVista-Resort)
 
@@ -143,7 +160,7 @@ Android hotel booking and service management application.
 ### 🌱 AgroCare
 Plant disease detection, growth prediction, and plant management using CNN and regression models.
 
-<img src="./assets/badge-react.svg" alt="React" /> <img src="./assets/badge-fastapi.svg" alt="FastAPI" /> <img src="./assets/badge-mongodb.svg" alt="MongoDB" /> <img src="./assets/badge-machine-learning.svg" alt="Machine Learning" />
+<code>React</code> <code>FastAPI</code> <code>MongoDB</code> <code>Machine Learning</code>
 
 [Portfolio ↗](https://arkhan-portfolio.vercel.app/projects) · Public source unavailable
 
