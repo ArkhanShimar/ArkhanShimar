@@ -53,27 +53,27 @@ Outside the code: **freelance graphic design** and **mathematics tutoring**.
 <tr>
 <td width="50%" valign="top">
 <h3>{ } Programming languages</h3>
-<p><code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>Java</code> <code>C++</code> <code>C#</code> <code>PHP</code> <code>R</code></p>
+<p><img src="./assets/logos/javascript.svg" height="27" alt="JavaScript" title="JavaScript" /> <img src="./assets/logos/typescript.svg" height="27" alt="TypeScript" title="TypeScript" /> <img src="./assets/logos/python.svg" height="27" alt="Python" title="Python" /> <img src="./assets/logos/java.svg" height="27" alt="Java" title="Java" /> <img src="./assets/logos/cpp.svg" height="27" alt="C++" title="C++" /> <img src="./assets/logos/csharp.svg" height="27" alt="C#" title="C#" /> <img src="./assets/logos/php.svg" height="27" alt="PHP" title="PHP" /> <img src="./assets/logos/r.svg" height="27" alt="R" title="R" /></p>
 </td>
 <td width="50%" valign="top">
 <h3>&lt;/&gt; Frontend &amp; interfaces</h3>
-<p><code>React</code> <code>Next.js</code> <code>React Native</code> <code>HTML</code> <code>CSS</code> <code>Tailwind CSS</code></p>
+<p><img src="./assets/logos/react.svg" height="27" alt="React" title="React" /> <img src="./assets/logos/next-js.svg" height="27" alt="Next.js" title="Next.js" /> <img src="./assets/logos/react-native.svg" height="27" alt="React Native" title="React Native" /> <img src="./assets/logos/html.svg" height="27" alt="HTML" title="HTML" /> <img src="./assets/logos/css.svg" height="27" alt="CSS" title="CSS" /> <img src="./assets/logos/tailwind-css.svg" height="27" alt="Tailwind CSS" title="Tailwind CSS" /></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>API Backend &amp; data</h3>
-<p><code>Node.js</code> <code>Express</code> <code>FastAPI</code> <code>.NET</code> <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code></p>
+<p><img src="./assets/logos/node-js.svg" height="27" alt="Node.js" title="Node.js" /> <img src="./assets/logos/express.svg" height="27" alt="Express" title="Express" /> <img src="./assets/logos/fastapi.svg" height="27" alt="FastAPI" title="FastAPI" /> <img src="./assets/logos/net.svg" height="27" alt=".NET" title=".NET" /> <img src="./assets/logos/mongodb.svg" height="27" alt="MongoDB" title="MongoDB" /> <img src="./assets/logos/mysql.svg" height="27" alt="MySQL" title="MySQL" /> <img src="./assets/logos/postgresql.svg" height="27" alt="PostgreSQL" title="PostgreSQL" /></p>
 </td>
 <td width="50%" valign="top">
 <h3>[+] Platforms &amp; services</h3>
-<p><code>Firebase</code> <code>Supabase</code> <code>Android</code> <code>Vercel</code> <code>Cloudinary</code></p>
+<p><img src="./assets/logos/firebase.svg" height="27" alt="Firebase" title="Firebase" /> <img src="./assets/logos/supabase.svg" height="27" alt="Supabase" title="Supabase" /> <img src="./assets/logos/android.svg" height="27" alt="Android" title="Android" /> <img src="./assets/logos/vercel.svg" height="27" alt="Vercel" title="Vercel" /> <img src="./assets/logos/cloudinary.svg" height="27" alt="Cloudinary" title="Cloudinary" /></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>$_ Development tools</h3>
-<p><code>Git</code> <code>GitHub</code> <code>Docker</code> <code>Postman</code> <code>Figma</code> <code>VS Code</code> <code>Android Studio</code></p>
+<p><img src="./assets/logos/git.svg" height="27" alt="Git" title="Git" /> <img src="./assets/logos/github.svg" height="27" alt="GitHub" title="GitHub" /> <img src="./assets/logos/docker.svg" height="27" alt="Docker" title="Docker" /> <img src="./assets/logos/postman.svg" height="27" alt="Postman" title="Postman" /> <img src="./assets/logos/figma.svg" height="27" alt="Figma" title="Figma" /> <img src="./assets/logos/vs-code.svg" height="27" alt="VS Code" title="VS Code" /> <img src="./assets/logos/android-studio.svg" height="27" alt="Android Studio" title="Android Studio" /></p>
 </td>
 <td width="50%" valign="top">
 <h3>*** Engineering skills</h3>
@@ -106,7 +106,7 @@ Outside the code: **freelance graphic design** and **mathematics tutoring**.
 ### 🍽️ Veloura
 Restaurant ordering, reservations, POS, kitchen display, and role-based operations.
 
-<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+<img src="./assets/logos/react.svg" height="27" alt="React" title="React" /> <img src="./assets/logos/node-js.svg" height="27" alt="Node.js" title="Node.js" /> <img src="./assets/logos/express.svg" height="27" alt="Express" title="Express" /> <img src="./assets/logos/mongodb.svg" height="27" alt="MongoDB" title="MongoDB" />
 
 [Source ↗](https://github.com/ArkhanShimar/Restaurant-Website) · [Live demo ↗](https://veloura-restaurant-lk.vercel.app/)
 
@@ -116,7 +116,7 @@ Restaurant ordering, reservations, POS, kitchen display, and role-based operatio
 ### ✅ DayMark
 Task management with authentication, task creation, progress tracking, and notifications.
 
-<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+<img src="./assets/logos/react.svg" height="27" alt="React" title="React" /> <img src="./assets/logos/node-js.svg" height="27" alt="Node.js" title="Node.js" /> <img src="./assets/logos/express.svg" height="27" alt="Express" title="Express" /> <img src="./assets/logos/mongodb.svg" height="27" alt="MongoDB" title="MongoDB" />
 
 [Source ↗](https://github.com/ArkhanShimar/Task-Management-System) · [Live demo ↗](https://task-management-system-frontend-seven.vercel.app/)
 
@@ -128,7 +128,7 @@ Task management with authentication, task creation, progress tracking, and notif
 ### 📝 Notely
 Rich-text notes, folders, pinning, real-time collaboration, and search.
 
-<code>React</code> <code>Node.js</code> <code>MongoDB</code>
+<img src="./assets/logos/react.svg" height="27" alt="React" title="React" /> <img src="./assets/logos/node-js.svg" height="27" alt="Node.js" title="Node.js" /> <img src="./assets/logos/mongodb.svg" height="27" alt="MongoDB" title="MongoDB" />
 
 [Source ↗](https://github.com/ArkhanShimar/Note-Taking-Website)
 
@@ -138,7 +138,7 @@ Rich-text notes, folders, pinning, real-time collaboration, and search.
 ### 🧵 Textile ERP
 Managing textile operations, from raw materials to finished goods.
 
-<code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>Supabase</code>
+<img src="./assets/logos/react.svg" height="27" alt="React" title="React" /> <img src="./assets/logos/express.svg" height="27" alt="Express" title="Express" /> <img src="./assets/logos/postgresql.svg" height="27" alt="PostgreSQL" title="PostgreSQL" /> <img src="./assets/logos/supabase.svg" height="27" alt="Supabase" title="Supabase" />
 
 [Source ↗](https://github.com/ArkhanShimar/Textile_ERP)
 
@@ -150,7 +150,7 @@ Managing textile operations, from raw materials to finished goods.
 ### 🏨 LuxeVista
 Android hotel booking and service management application.
 
-<code>Java</code> <code>Firebase</code> <code>Android</code>
+<img src="./assets/logos/java.svg" height="27" alt="Java" title="Java" /> <img src="./assets/logos/firebase.svg" height="27" alt="Firebase" title="Firebase" /> <img src="./assets/logos/android.svg" height="27" alt="Android" title="Android" />
 
 [Source ↗](https://github.com/ArkhanShimar/LexeVista-Resort)
 
@@ -160,7 +160,7 @@ Android hotel booking and service management application.
 ### 🌱 AgroCare
 Plant disease detection, growth prediction, and plant management using CNN and regression models.
 
-<code>React</code> <code>FastAPI</code> <code>MongoDB</code> <code>Machine Learning</code>
+<img src="./assets/logos/react.svg" height="27" alt="React" title="React" /> <img src="./assets/logos/fastapi.svg" height="27" alt="FastAPI" title="FastAPI" /> <img src="./assets/logos/mongodb.svg" height="27" alt="MongoDB" title="MongoDB" /> <code>Machine Learning</code>
 
 [Portfolio ↗](https://arkhan-portfolio.vercel.app/projects) · Public source unavailable
 
