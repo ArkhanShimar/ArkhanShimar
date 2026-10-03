@@ -77,7 +77,7 @@ Outside the code: **freelance graphic design** and **mathematics tutoring**.
 </td>
 <td width="50%" valign="top">
 <h3>*** Engineering skills</h3>
-<p><code>Full-stack development</code> <code>REST APIs</code> <code>Mobile development</code> <code>Problem-solving</code> <code>Team collaboration</code></p>
+<p><img src="./assets/logos/full-stack-development.svg" height="27" alt="Full-stack development" title="Full-stack development" /> <img src="./assets/logos/rest-apis.svg" height="27" alt="REST APIs" title="REST APIs" /> <img src="./assets/logos/mobile-development.svg" height="27" alt="Mobile development" title="Mobile development" /> <img src="./assets/logos/problem-solving.svg" height="27" alt="Problem-solving" title="Problem-solving" /> <img src="./assets/logos/team-collaboration.svg" height="27" alt="Team collaboration" title="Team collaboration" /></p>
 </td>
 </tr>
 </table>
@@ -160,7 +160,7 @@ Android hotel booking and service management application.
 ### 🌱 AgroCare
 Plant disease detection, growth prediction, and plant management using CNN and regression models.
 
-<img src="./assets/logos/react.svg" height="27" alt="React" title="React" /> <img src="./assets/logos/fastapi.svg" height="27" alt="FastAPI" title="FastAPI" /> <img src="./assets/logos/mongodb.svg" height="27" alt="MongoDB" title="MongoDB" /> <code>Machine Learning</code>
+<img src="./assets/logos/react.svg" height="27" alt="React" title="React" /> <img src="./assets/logos/fastapi.svg" height="27" alt="FastAPI" title="FastAPI" /> <img src="./assets/logos/mongodb.svg" height="27" alt="MongoDB" title="MongoDB" /> <img src="./assets/logos/machine-learning.svg" height="27" alt="Machine Learning" title="Machine Learning" />
 
 [Portfolio ↗](https://arkhan-portfolio.vercel.app/projects) · Public source unavailable
 

@@ -25,7 +25,7 @@ For automatic updates, open your profile repository’s Actions tab, select **Re
 - `assets/languages.svg`: language percentages by byte count across public non-fork repositories.
 - `assets/activity.svg`: latest 12 seven-day contribution buckets, not commit counts.
 - `assets/streak.svg`: contribution totals, current streak, longest streak, and active days within the displayed calendar. Today with zero contributions does not break the current streak until the day ends (UTC).
-- Languages, platforms, tools, and project stacks use individual logo-and-name badges under `assets/logos/`, inside native HTML tables. General engineering skills and contact links remain selectable text. Badge frames use the black-and-green profile palette; brand logos retain recognizable colors. Source attribution and licenses are included in `assets/logos/`.
+- Languages, platforms, tools, and project stacks use individual logo-and-name badges under `assets/logos/`, inside native HTML tables. Engineering skills and Machine Learning use matching badges with generic concept icons; contact links remain selectable text. Badge frames use the black-and-green profile palette; brand logos retain recognizable colors. Source attribution and licenses are included in `assets/logos/`.
 - `assets/github-data.json`: source snapshot for the generated dashboard.
 - `dashboard-preview.png`: combined preview of the stats panels.
 
