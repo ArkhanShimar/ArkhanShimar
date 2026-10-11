@@ -1,14 +1,14 @@
 {
-  "synced": "2026-10-10",
+  "synced": "2026-10-11",
   "user": "ArkhanShimar",
   "publicRepos": 16,
   "stars": 0,
   "followers": 1,
   "created": "2025-04-11T02:35:18Z",
-  "contributions": 616,
-  "currentStreak": 1,
+  "contributions": 599,
+  "currentStreak": 2,
   "longestStreak": 5,
-  "activeDays": 79,
+  "activeDays": 75,
   "languages": {
     "TypeScript": 417959,
     "CSS": 406732,
@@ -18,47 +18,12 @@
     "PHP": 276097,
     "C": 329853,
     "C++": 120170,
-    "Jupyter Notebook": 65326,
+    "Jupyter Notebook": 65254,
     "Python": 101866,
     "Cuda": 10734,
     "Java": 192533
   },
   "days": [
-    {
-      "date": "2025-10-05",
-      "level": 1,
-      "count": 4
-    },
-    {
-      "date": "2025-10-06",
-      "level": 1,
-      "count": 1
-    },
-    {
-      "date": "2025-10-07",
-      "level": 1,
-      "count": 6
-    },
-    {
-      "date": "2025-10-08",
-      "level": 1,
-      "count": 1
-    },
-    {
-      "date": "2025-10-09",
-      "level": 1,
-      "count": 8
-    },
-    {
-      "date": "2025-10-10",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-11",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-10-12",
       "level": 0,
@@ -1876,6 +1841,11 @@
     },
     {
       "date": "2026-10-10",
+      "level": 1,
+      "count": 3
+    },
+    {
+      "date": "2026-10-11",
       "level": 1,
       "count": 1
     }
