@@ -1,14 +1,14 @@
 {
-  "synced": "2026-10-17",
+  "synced": "2026-10-18",
   "user": "ArkhanShimar",
   "publicRepos": 16,
   "stars": 0,
   "followers": 1,
   "created": "2025-04-11T02:35:18Z",
-  "contributions": 600,
-  "currentStreak": 1,
-  "longestStreak": 5,
-  "activeDays": 76,
+  "contributions": 541,
+  "currentStreak": 0,
+  "longestStreak": 4,
+  "activeDays": 71,
   "languages": {
     "TypeScript": 417959,
     "CSS": 406732,
@@ -24,41 +24,6 @@
     "Java": 192533
   },
   "days": [
-    {
-      "date": "2025-10-12",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-13",
-      "level": 1,
-      "count": 11
-    },
-    {
-      "date": "2025-10-14",
-      "level": 2,
-      "count": 17
-    },
-    {
-      "date": "2025-10-15",
-      "level": 1,
-      "count": 11
-    },
-    {
-      "date": "2025-10-16",
-      "level": 1,
-      "count": 7
-    },
-    {
-      "date": "2025-10-17",
-      "level": 1,
-      "count": 13
-    },
-    {
-      "date": "2025-10-18",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-10-19",
       "level": 1,
@@ -1876,6 +1841,11 @@
     },
     {
       "date": "2026-10-17",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
       "level": 0,
       "count": 0
     }
